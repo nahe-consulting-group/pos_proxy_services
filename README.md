@@ -7,6 +7,7 @@ Módulos para odoo Argentina POS Impresores fiscales Epson y Hasar
 |-----|------|----|-----|
 |EPSON|TM- T900FA|AFIP|29/07/2020|
 |HASAR|SMH/P-715F|AFIP|29/07/2020|
+|HASAR|250       |AFIP|02/09/2020|
 
 V13.0
 
